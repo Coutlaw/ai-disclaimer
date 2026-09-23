@@ -1,0 +1,84 @@
+                                 AI Disclaimer
+                           Version 0.1, September 2026
+                      https://github.com/coutlaw/ai-disclaimer
+
+   PURPOSE AND INTENT
+
+      Projects in use of this disclaimer in part or fully implement restrictions
+      on the use of Artificial Intelligence (AI) development practices while designing, 
+      planning and building software.
+
+      Software built under this discliamer will limit the use of AI tooling in the 
+      cycle of producing software. The motivations behind this stance are not due 
+      to any lack of faith or distain for AI but rather to progress their own skills
+      and abilities for the sake of learning and becoming better at their craft.
+
+   TERMS AND CONDITIONS OF USE
+
+    ACCEPTIBLE USE CRITERIA
+
+      Software built with the assistance of AI in the form of complementary use is
+      in full alignment to this disclaimer.
+
+      Complamentary use can be defined as, or in good faith aiming to:
+
+        1. Increase learning potential: Whereas an engineer may use AI tools to 
+        rapidly digest and understand complex topics, or quickly be introduced
+        to new repositories in the sole aim of helping that engineer learn.
+
+        2. Validate understanding: Whereas an engineer may use AI to check their
+        own understanding of topics, providing quick feedback to the engineer 
+        before making decisions on a topic.
+
+        3. AI Rubber Ducking: Whereas an engineer uses a combination of the
+        prevoius two points and AI serves as an advanced search engine to bolster
+        the skillset of an engineers understadning of an area. The core principle
+        of the previous 3 topics is the use of AI to improve the engineer's abilities.
+
+        4. Mundain Boilerplate Automation: Whereas AI tooling, primarily generated
+        code, can be leveraged to increase velocity of work while not taking away 
+        from the engineers ability to fully understand the principles of the project
+        they are building.
+
+        5. Stubbing of Code: Whereas the engineer can use AI generated code and
+        comments as a foundational piece of the project, where the goal is not to 
+        lack understanding, but purely to increase velocity.
+
+    UNACCEPTABLE USE CRITERIA
+
+     Projects that leverage modern AI practices as follows, are hereby restricted from 
+     this disclaimer:
+     
+       - Vibe Coding
+       - prompt engineering
+       - prompt whispering
+       - slop cannon
+       - meat proxy
+       - clanker coding
+       - loop engineering
+       - agentic harneses
+       - "building harnesses of loops"
+       - "loops are last week, you should be building graphs"
+       - AI slop factories
+       - Slop bombs
+       - AI Glazing
+       - Tokenmaxing
+
+    AI ALTERNATIVES 
+
+     Projects that meet all of the above criteria, using this disclaimer are entitled to 
+     the following advanced AI alternatives.
+      
+        1. The Feynman algorithm
+        2. Trial and Error
+        3. Reading the Documentation
+        4. Using a Debugger
+    
+    In conjunction with the advanced techniques listed above, the core principle of this
+    disclaimer is for the use of AI to help improve the engineers ability as a whole 
+    without sacrificing the quality of the project that will yield the learning opporunities.
+
+  END OF TERMS AND CONDITIONS
+
+
+
