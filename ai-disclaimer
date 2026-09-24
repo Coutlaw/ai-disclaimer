@@ -5,22 +5,39 @@
    PURPOSE AND INTENT
 
       Projects in use of this disclaimer in part or fully implement restrictions
-      on the use of Artificial Intelligence (AI) development practices while designing, 
-      planning and building software.
+      on the use of methods and use of Artificial Intelligence (AI) in the 
+      designing, planning and building software.
 
-      Software built under this discliamer will limit the use of AI tooling in the 
-      cycle of producing software. The motivations behind this stance are not due 
-      to any lack of faith or distain for AI but rather to progress their own skills
-      and abilities for the sake of learning and becoming better at their craft.
+      The intention of this disclaimer is to clearly identify the human effort put
+      into the development process, where a great amount of care was given to the
+      final product without offloading the thinking purely to AI tooling. Keenly, 
+      this disclaimer indicates that the learning and understanding that come as 
+      byproducts of developing software were not outsourced from the engineers that 
+      built the project.
 
    TERMS AND CONDITIONS OF USE
 
-    ACCEPTIBLE USE CRITERIA
+    FOUNDATIONAL TENANTS
+
+      1. As the author of the software accompanying this disclaimer, you must be able
+      to reason about and explain your code. It is unacceptable to use the phrase "the 
+      AI wrote this, I don't know what it does".
+
+      2. You must be able to demonstrate knowledge of the domain for which your software
+      resides in.
+
+      3. You must not impersonate yourself in the form of chatbots, agents, or other means
+      as it relates to the function of this software.
+
+      4. You are directly responsible for all of the code contributed to this project.
+      
+
+    ACCEPTABLE USE CRITERIA
 
       Software built with the assistance of AI in the form of complementary use is
       in full alignment to this disclaimer.
 
-      Complamentary use can be defined as, or in good faith aiming to:
+      Complementary use can be defined as, or in good faith aiming to:
 
         1. Increase learning potential: Whereas an engineer may use AI tools to 
         rapidly digest and understand complex topics, or quickly be introduced
@@ -31,11 +48,11 @@
         before making decisions on a topic.
 
         3. AI Rubber Ducking: Whereas an engineer uses a combination of the
-        prevoius two points and AI serves as an advanced search engine to bolster
-        the skillset of an engineers understadning of an area. The core principle
+        previous two points and AI serves as an advanced search engine to bolster
+        the skillet of an engineers understanding of an area. The core principle
         of the previous 3 topics is the use of AI to improve the engineer's abilities.
 
-        4. Mundain Boilerplate Automation: Whereas AI tooling, primarily generated
+        4. Mundane Boilerplate Automation: Whereas AI tooling, primarily generated
         code, can be leveraged to increase velocity of work while not taking away 
         from the engineers ability to fully understand the principles of the project
         they are building.
@@ -44,10 +61,17 @@
         comments as a foundational piece of the project, where the goal is not to 
         lack understanding, but purely to increase velocity.
 
+        6. Guided Implementation: Whereas the engineer can use AI tooling
+        to generate code by using previously written code as a working example for
+        the AI tools to use as a baseline for implementation. If the engineer has 
+        already implemented a given piece of functionality, then there is a low potential
+        of that not being able to be automated with AI tooling without detriment to any
+        learning that may occur in the development cycle.
+
     UNACCEPTABLE USE CRITERIA
 
-     Projects that leverage modern AI practices as follows, are hereby restricted from 
-     this disclaimer:
+     Projects that leverage modern AI practices, or practices akin to the following are
+     hereby restricted from this disclaimer:
      
        - Vibe Coding
        - prompt engineering
@@ -56,7 +80,7 @@
        - meat proxy
        - clanker coding
        - loop engineering
-       - agentic harneses
+       - agentic harness
        - "building harnesses of loops"
        - "loops are last week, you should be building graphs"
        - AI slop factories
@@ -76,9 +100,9 @@
     
     In conjunction with the advanced techniques listed above, the core principle of this
     disclaimer is for the use of AI to help improve the engineers ability as a whole 
-    without sacrificing the quality of the project that will yield the learning opporunities.
+    without sacrificing the quality of the project that will yield the learning opportunities.
 
   END OF TERMS AND CONDITIONS
 
-
+END OF DISCLAIMER
 
